@@ -1,39 +1,43 @@
-Overview of DIGITAL LOGIC
+Overview of KIAR
 ==================================================================================================================================
 
-💁🏻‍♀️ 𝓒𝓸𝓾𝓻𝓼𝓮 𝓼𝔂𝓷𝓸𝓹𝓼𝓲𝓼 💁🏻‍♀️
+💁🏻‍♀️ 𝓢𝓘𝓝𝓞𝓟𝓢𝓘𝓢 𝓜𝓞𝓓𝓤𝓛 💁🏻‍♀️
 
-Digital electronics is the foundation of all microprocessor-based systems found in computers,
-robots, automobiles, and industrial control systems. This course introduces the students to digital
-electronics and provides a broad overview of many important concepts, components, and tools.
-Students will get up-to-date coverage of digital fundamentals-from basic concepts to
-programmable logic devices. Laboratory experiments provide hands-on experience with the
-simulator software, actual devices and circuits studied in the classroom
+Kursus ini merangkumi konsep asas rasuahtermasuk nilai integriti, antirasuah, bentuk perlakuan rasuah, salah guna kuasa dalam aktiviti seharian dan organisasi serta kaedah pencegahan rasuah. Kes berkaitan rasuah juga dibincangkan. Kaedah pengajaran dan pembelajaran dilaksanakan dalam bentuk ‘pembelajaran berdasarkan pengalaman’ melalui aktiviti individu
+dan kumpulan. Pada akhir kursus ini, pelajar dapat memahami amalan integriti, konsep rasuah, antirasuah dan salah guna kuasa serta pencegahan rasuah dalam masyarakat dan
+organisasi.
 
-💫Course coordinator : Dr. Mohd Fo’ad bin Rohani
-
-💫Course lecturer : Dr. Mohd Fo’ad bin Rohani
-
-
-💯 𝓒𝓸𝓾𝓻𝓼𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓞𝓾𝓽𝓬𝓸𝓶𝓮𝓼 (𝓒𝓛𝓞) 💯
-
-🌟CLO1🌟 : Apply the fundamentals of digital knowledge concept and numbering systems to digital logic circuits.
-
-🌟CLO2🌟 : Design combinational logic circuits using logic gates and Boolean algebra.
-
-🌟CLO3🌟 : Design sequential asynchronous and synchronous circuits using fundamentals of latches and flip-flops
-
-🌟CLO4🌟 : Use the techniques, skills and digital logic tools in a successful lab exercise. 
-
-🌟CLO5🌟 : Design, implement and report on a digital logic circuit based on practical problems.
-
-
-💞 𝓟𝓻𝓸𝓳𝓮𝓬𝓽  💞
-
-    ▪ Final Project
+💫Course lecturer : Dr. Radhiahtul Raehan Mustafa
 
 
 
-📌𝓡𝓮𝓯𝓵𝓮𝓬𝓽𝓲𝓸𝓷📌
+💯 𝓗𝓐𝓢𝓘𝓛 𝓟𝓔𝓜𝓑𝓔𝓛𝓐𝓙𝓐𝓡𝓐𝓝 𝓚𝓤𝓡𝓢𝓤𝓢 💯
 
-This course covered essential topics like numbering systems, logic gates, Boolean algebra, and the design of both combinational and sequential circuits. Through the labs that were conducted during class, it provided me a hands-on chance to do the connection of logic gates and how to use and simulate the circuit using the DEEDS application. I really appreciate that labs are conducted since they are very useful for understanding the topics. Our lecturer also gives a good explanation for all the topics. By the end of the course, I gained the skills to design and implement digital circuits for practical problems, which has significantly enhanced my problem-solving abilities and confidence in working with microprocessor-based systems.
+🌟CLO1🌟 : Menerangkan konsep integriti danantirasuah dalam aktiviti seharian.
+
+🌟CLO2🌟 : Menilai bentuk perlakuan rasuahdan salah guna kuasa dalam
+aktiviti seharian dan organisasi.
+
+🌟CLO3🌟 : Menghubung kait nilai integritidan antirasuah dengan isu
+semasa.
+
+
+💞 𝓚𝓪𝓳𝓲𝓪𝓷 𝓚𝓮𝓼  💞
+
+Tajuk: Kontraktor beri rasuah kepada Pejabat Tanahdan Galian agar tidak mengambil tindakan syarikat
+
+Latar belakang :Seorang kontraktor binaan dihukum penjaratiga bulan dan denda RM 15 000.00 (atau penjara lima bulan) kerana rasuah.
+Beliau didakwa memberi rasuah RM 3000.00 kepada penguatkuasa Pejabat Tanah dan
+Galian (PTG) Ipoh agar tidak mengambil tindakan ke atas syarikat miliknya yang
+mengeluarkan bahan batu tanpa permit.
+
+
+    ▪ KIAR Poster
+    ▪ KIAR Report
+    ▪ KIAR Video
+    
+
+
+📌𝓡𝓮𝓯𝓵𝓮𝓴𝓼𝓲 𝓽𝓮𝓷𝓽𝓪𝓷𝓰 𝓴𝓪𝓳𝓲𝓪𝓷 📌
+
+Konklusinya,bagi mencegah kejadian serupa, pihak berkuasa perlulah menguatkuasakan undang-undang dengan lebih ketat seperti memberikan hukuman yang lebih berat kepada sesiapa yang menjalankan aktiviti rasuah.Selain itu, pemantauan yang berterusan terhadap kegiatan kontraktor juga penting dalam membanteras aktiviti rasuah. Di samping itu, kempen kesedaran mengenai kesan buruk rasuah dalam kalangan kontraktor dan pegawai kerajaan juga harus diadakan.
